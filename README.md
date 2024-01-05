@@ -1,8 +1,18 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=120&text=얼굴인식%20도어락&animation=&fontColor=000000&fontSize=40" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 0px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 사용 장치</li><li>Raspberry Pi4 </li><li>Camera Module V3 </li></li><br/>사용언어 <li> 파이썬<li>Java</li><br/>개발환경 <li> VScode, <li>Android Studio</li></li><br/>라즈베리파이를 사용하여 얼굴인식을 통해 도어락 제어 </li>어플을 사용하여 도어락 제어 및 Unknown 감지, 알림</li></li></li> </div> 
-    </div>
-    
+## 얼굴인식 도어락 
+
+사용장치 
+- Raspberry Pi4
+- Camera Module V3 
+
+사용 언어 
+- Python 
+- Java
+
+개발 환경 
+- VScode 
+- Android Studio 
+
+요약  
+- 라즈베리파이를 활용하여 얼굴인식을 진행하여 도어락을 제어, 어플을 사용하여 원격으로 도어락 제어가능 
+- Unknown이 감지되면 어플을 통하여 알림 
+- 도어락의 동작에 따라 로그가 남게되고 이를 어플을 통해 확인가능
