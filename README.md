@@ -23,7 +23,7 @@
 <img src="https://github.com/Kuan29/face_recognition/assets/88146943/2c6a3af9-8787-4905-87d9-bb7dd0a03956"  width="200" height="400"/>
 <img src="https://github.com/Kuan29/face_recognition/assets/88146943/bbc193ac-c059-482f-b0bd-971ade831c42"  width="200" height="400"/>
 <img src="https://github.com/Kuan29/face_recognition/assets/88146943/148bb99b-e2e1-4fd4-a807-8c45a81e6d54"  width="200" height="400"/>
-<img src="https://github.com/Kuan29/face_recognition/assets/88146943/449b39e3-cb34-47c9-ab2b-2288cda04cbd"  width="200" height="300"/>
+<img src="https://github.com/Kuan29/face_recognition/assets/88146943/449b39e3-cb34-47c9-ab2b-2288cda04cbd"  width="200" height="250"/>
 
 
 
