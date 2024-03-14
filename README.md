@@ -10,7 +10,8 @@
 
 개발 환경 
 - VScode 
-- Android Studio 
+- Android Studio
+- MariaDB
 
 요약  
 - 라즈베리파이를 활용하여 얼굴인식을 진행하여 도어락을 제어, 어플을 사용하여 원격으로 도어락 제어가능 
