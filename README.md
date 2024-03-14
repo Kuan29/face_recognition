@@ -21,7 +21,7 @@
 - 새로운 사람을 추가할경우에는 동영상을 업로드하면 영상을 프레임단위로 쪼개서 사진으로 변환시킨후 이를 학습
   
 구조
-![구조](https://github.com/Kuan29/face_recognition/assets/88146943/2d7e6cbd-7ec0-431b-a6a1-780099543e99)
+<img src="https://github.com/Kuan29/face_recognition/assets/88146943/2d7e6cbd-7ec0-431b-a6a1-780099543e99"  width="400" height="200"/>
 
 구현화면 및 얼굴인식
 
