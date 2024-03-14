@@ -23,6 +23,7 @@
 구조
 
 구현화면 및 얼굴인식
+
 <img src="https://github.com/Kuan29/face_recognition/assets/88146943/24bbb1e1-0340-4c9e-8814-b9d596e4e147"  width="200" height="400"/>
 <img src="https://github.com/Kuan29/face_recognition/assets/88146943/d32be923-2fc0-4309-9854-bd2a0b02f32f"  width="200" height="400"/>
 <img src="https://github.com/Kuan29/face_recognition/assets/88146943/2c6a3af9-8787-4905-87d9-bb7dd0a03956"  width="200" height="400"/>
